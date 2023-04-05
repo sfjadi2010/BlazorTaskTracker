@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33414.496
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BlazorTaskTracker.Api", "BlazorTaskTracker.Api\BlazorTaskTracker.Api.csproj", "{B6BC4AB7-3AD5-4329-9A42-BCD53319938D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B6BC4AB7-3AD5-4329-9A42-BCD53319938D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B6BC4AB7-3AD5-4329-9A42-BCD53319938D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B6BC4AB7-3AD5-4329-9A42-BCD53319938D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B6BC4AB7-3AD5-4329-9A42-BCD53319938D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {C8C4088D-0CB5-495C-B597-D22BDF75B721}
+	EndGlobalSection
+EndGlobal
